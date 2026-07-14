@@ -1,0 +1,11 @@
+matplotlib~=3.8.0
+numpy~=1.26.0
+scipy~=1.11.3
+h5py~=3.9.0
+astropy~=5.3.4
+sunpy~=5.0.1
+fitsarray~=0.3.0
+TomograPy~=0.3.1
+scikit-image~=0.22.0
+lo~=0.3.0
+opencv-python~=4.8.1.78
