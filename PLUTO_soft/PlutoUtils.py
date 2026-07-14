@@ -1,13 +1,7 @@
 import os
 import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.colors import LinearSegmentedColormap
-# from PLUTO_soft import pyPLUTO as pp
-from mpl_toolkits.axes_grid1.inset_locator import zoomed_inset_axes,mark_inset,BboxPatch,inset_axes
-from matplotlib.transforms import Bbox, TransformedBbox
 import pickle as pickle
 import scipy.interpolate
-from scipy.interpolate import RectBivariateSpline
 from scipy.sparse import coo_matrix
 from scipy.sparse import csr_matrix
 if (hasattr(scipy.interpolate,'RegularGridInterpolator')):
